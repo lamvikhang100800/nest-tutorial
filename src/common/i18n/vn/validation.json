@@ -1,0 +1,18 @@
+{
+  "isNotEmpty": "{property} không được để trống",
+  "isString": "{property} phải là chuỗi",
+  "isEmail": "phải là email hợp lệ",
+  "isNumber": "{property} phải là số",
+  "isInt": "{property} phải là số nguyên",
+  "isBoolean": "{property} phải là giá trị boolean",
+  "isArray": "{property} phải là mảng",
+  "isDate": "{property} phải là ngày hợp lệ",
+  "minLength": "{property} phải có ít nhất {constraints.0} ký tự ",
+  "maxLength": "{property} không được vượt quá {constraints.0} ký tự",
+  "min": "{property} phải lớn hơn hoặc bằng {constraints.0}",
+  "max": "{property} phải nhỏ hơn hoặc bằng {constraints.0}",
+  "isOptional": "{property} là tùy chọn",
+  "isIn": "{property} phải là một trong các giá trị sau: {constraints.0}",
+  "isEnum": "{property} phải là giá trị hợp lệ",
+  "matches": "{property} phải khớp với mẫu {constraints.0}"
+}

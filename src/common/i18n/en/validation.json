@@ -1,0 +1,18 @@
+{
+  "isNotEmpty": "{property} should not be empty",
+  "isString": "{property} must be a string",
+  "isEmail": "must be a valid email",
+  "isNumber": "{property} must be a number",
+  "isInt": "{property} must be an integer",
+  "isBoolean": "{property} must be a boolean value",
+  "isArray": "{property} must be an array",
+  "isDate": "{property} must be a valid date",
+  "minLength": "{property} must be at least {constraints.0} characters long",
+  "maxLength": "{property} must not exceed {constraints.0} characters",
+  "min": "{property} must be greater than or equal to {constraints.0}",
+  "max": "{property} must be less than or equal to {constraints.0}",
+  "isOptional": "{property} is optional",
+  "isIn": "{property} must be one of the following values: {constraints.0}",
+  "isEnum": "{property} must be a valid enum value",
+  "matches": "{property} must match the pattern {constraints.0}"
+}

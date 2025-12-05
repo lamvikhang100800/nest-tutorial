@@ -1,0 +1,11 @@
+{
+  "login_success": "Login successfully",
+  "invalid_credentials": "Invalid email or password",
+  "unauthorized": "Unauthorized access",
+  "forbidden": "You do not have permission",
+  "token_expired": "Token has expired",
+  "server_error": "System error",
+  "created_success": "Created successfully",
+  "updated_success": "Updated successfully",
+  "deleted_success": "Deleted successfully"
+}

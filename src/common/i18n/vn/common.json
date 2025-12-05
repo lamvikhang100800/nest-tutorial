@@ -1,0 +1,11 @@
+{
+  "login_success": "Đăng nhập thành công",
+  "invalid_credentials": "Email hoặc mật khẩu không đúng",
+  "unauthorized": "Bạn không có quyền truy cập",
+  "forbidden": "Bạn không đủ quyền",
+  "token_expired": "Phiên đăng nhập đã hết hạn",
+  "server_error": "Lỗi hệ thống",
+  "created_success": "Tạo mới thành công",
+  "updated_success": "Cập nhật thành công",
+  "deleted_success": "Xóa thành công"
+}
