@@ -1,4 +1,13 @@
 {
+  "id": "Mã người dùng",
+  "name": "Họ và tên",
   "email": "Địa chỉ email",
-  "password": "Mật khẩu"
+  "email_verified_at": "Thời gian xác minh email",
+  "password": "Mật khẩu",
+  "deleted_at": "Ngày xoá",
+  "deleted_by": "Người xoá",
+  "created_at": "Ngày tạo",
+  "updated_at": "Ngày cập nhật",
+  "created_by": "Tạo bởi",
+  "updated_by": "Cập nhật bởi"
 }
